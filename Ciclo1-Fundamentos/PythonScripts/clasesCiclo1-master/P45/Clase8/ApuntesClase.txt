@@ -1,0 +1,15 @@
+- Cadenas -> Sucesiones de elementos alfanuméricos: números
+tratados como letras, letras, caracteres especiales (espacios,
+signos de puntuación, tabulaciones, movimientos de carro)
+
+-------------------------------------------------------
+Estructuras Iterativas -> Condicional que nos lleva a la repetición
+de una serie de instrucciones (llamados a módulo)
+
+Podemos iterar de dos formas -> *while (cuando no sabemos cuántas 
+veces se va a realizar un proceso)
+*for (cuando tenemos un límite inferior un límite superior y un avance
+específicos)
+
+Requerimiento -> Realizar un programa que imprima los 20 primeros
+números enteros

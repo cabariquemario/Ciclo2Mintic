@@ -1,0 +1,15 @@
+-> Requerimientos sobre los cajeros (imperativa o declarativa)
+    - Reto4
+    - Any-All
+    - Aplicar al caso map filter zip reduce
+
+Viernes 10 a 1 pm
+-> Requerimientos (reto4)
+-> Numpy -> arreglos numéricos operaciones de álegebra lineal
+-> Manejo de archivos
+-> Pandas -> Archivo excel cargado en memoria (funciones básicas y tablas dinámicas)
+
+
+
+
+
